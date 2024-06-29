@@ -50,4 +50,8 @@ Feel free to fork the repository and submit pull requests. For major changes, pl
 ## License
 
 This project is licensed under the MIT License.
+
+## "Download the project"
+
+You need to download the file 'Projet_4_Planifiez le développement du site de votre client.zip' to access the project.
     
