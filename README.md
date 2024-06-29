@@ -11,12 +11,9 @@ You are a front-end developer at Webgencia, working on behalf of the client, Qwe
 
 ## Features
 
-    - User-Friendly Interface: Easy-to-use interface for creating and managing menus.
-    - Customizable Layouts: Various layout options for displaying menus.
-    - Real-Time Preview: Live preview of menus as they are being created.
-    - Responsive Design: Menus look great on both desktop and mobile devices.
+  - User-Friendly Interface: Easy-to-use interface for creating and managing menus
+  - Customizable Layouts: Various layout options for displaying menus.
 
 ## Prerequisites
 
-    - Node.js (version 14 or higher)
-    - npm (version 6 or higher)
+    
