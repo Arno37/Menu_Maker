@@ -2,6 +2,10 @@
 
 ![image](https://github.com/Arno37/Menu_Maker/assets/140819974/239e4760-4791-41e4-9f6a-8a2f1c8c3b32)
 
+## "Download the project"
+
+You need to download the file 'Projet_4_Planifiez le développement du site de votre client.zip' to access the project.
+
 ## Description
 
 Menu Maker is a web application designed to help restaurateurs easily display and format their menus with just a few clicks.
@@ -51,7 +55,4 @@ Feel free to fork the repository and submit pull requests. For major changes, pl
 
 This project is licensed under the MIT License.
 
-## "Download the project"
-
-You need to download the file 'Projet_4_Planifiez le développement du site de votre client.zip' to access the project.
     
