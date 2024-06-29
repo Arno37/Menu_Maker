@@ -23,7 +23,7 @@ I am a front-end developer at Webgencia, working on behalf of the client, Qwenta
 
 ## Installation
 
-    Clone the repository: git clone https://github.com/your-username/menu-maker.git
+Clone the repository: git clone https://github.com/your-username/menu-maker.git
 
 Navigate to the project directory: cd menu-maker
 
