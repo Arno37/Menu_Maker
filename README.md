@@ -2,9 +2,9 @@
 
 ![image](https://github.com/Arno37/Menu_Maker/assets/140819974/239e4760-4791-41e4-9f6a-8a2f1c8c3b32)
 
-## "Download"
+## "Completion of the project"
 
-You need to download the file 'Projet_4_Planifiez le développement du site de votre client.zip' to access the project.
+You need to download the file 'Projet_4_Planifiez le développement du site de votre client.zip'.
 
 ## Description
 
