@@ -7,7 +7,7 @@ Menu Maker is a web application designed to help restaurateurs easily display an
 
 ## Project Overview
 
-You are a front-end developer at Webgencia, working on behalf of the client, Qwenta. Due to the absence of Soufiane, the Product Owner, you have been tasked with preparing and planning the project. Soufiane will later present your work to the client.
+I am a front-end developer at Webgencia, working on behalf of the client, Qwenta. Due to the absence of Soufiane, the Product Owner, I have been tasked with preparing and planning the project. Soufiane will later present my work to the client.
 
 ## Features
 
