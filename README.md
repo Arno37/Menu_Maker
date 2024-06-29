@@ -20,4 +20,32 @@ I am a front-end developer at Webgencia, working on behalf of the client, Qwenta
 
   - Node.js (version 14 or higher)
   - npm (version 6 or higher)
+
+## Installation
+
+    Clone the repository: git clone https://github.com/your-username/menu-maker.git
+
+Navigate to the project directory: cd menu-maker
+
+Install dependencies: npm install
+
+## Development
+
+To start the development server, run: npm start
+
+This will launch the application on http://localhost:3000.
+
+## Build
+
+To create a production build, run: npm run build
+
+This will output the build files to the build directory.
+
+## Contribution
+
+Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License.
     
